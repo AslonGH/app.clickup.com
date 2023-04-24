@@ -1,4 +1,4 @@
-# Aufgabenbeschreibung.
+# Aufgabenbeschreibung. Backend für Interneseite - https://app.clickup.com/
  Schreiben Sie ausgehend von der vorgegebenen Struktur die Entitätsklassen nach der im Lehrbuch erläuterten TT (technische Zuordnung).
 Schreiben Sie Methoden, die Aktionen ausführen, wie z. B. das Bearbeiten eines Arbeitsbereichs, das Ändern seines Besitzers, das Anzeigen von Mitgliedern und Gästen,
 das Abrufen einer Liste von Arbeitsbereichen, das Hinzufügen von Rollen zu einem Arbeitsbereich und das Erteilen oder Entfernen von Berechtigungen für Arbeitsbereichsrollen.
